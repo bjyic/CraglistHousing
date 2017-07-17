@@ -1,0 +1,6 @@
+https://sfbay.craigslist.org/search/eby/apa   --east bay
+https://sfbay.craigslist.org/search/nby/apa   ---north bay
+https://sfbay.craigslist.org/search/pen/apa  ---penninsula
+https://sfbay.craigslist.org/search/sfc/apa   ---san francisco
+https://sfbay.craigslist.org/search/scz/apa   --- santa cruz
+https://sfbay.craigslist.org/search/sby/apa  --- south bay

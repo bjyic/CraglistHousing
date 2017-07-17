@@ -1,0 +1,55 @@
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.height-responsive {
+    width: auto;
+    display:block;
+    height: 10%;
+}
+
+
+
+
+.background-prop {
+  content: "";
+  background: url("../static/1.jpg");
+  opacity: 0.8;
+  position: absolute;
+  
+  height: 100%;
+  width:100%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;   
+}
+
+.front-prop {
+  padding-top: 30px;
+  display: block;
+  position: absolute;
+  left: 15%
+}
+
+h1{
+	font-size: 50px;
+	}
+	
+h2{
+	font-size: 40px;
+	}
+h2{
+	font-size: 35px;
+	}
+	
+h4{
+	font-size: 20px;
+	}
